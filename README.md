@@ -1,6 +1,6 @@
 ## Hi there 👋
 COMPUTER SCIENCE!
-I am a CS and math student at NJIT learning more and more everyday! 
+I am a CS student at NJIT learning more and more everyday! 
 <!--
 **Anetryst/Anetryst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
