@@ -1,6 +1,5 @@
 ## Hi there 👋
-COMPUTER SCIENCE!
-I am a CS student at NJIT learning more and more everyday! 
+I am a CS student at NJIT! I love doing anything related to tech and computers. Currently working on platescan and other school projects.
 <!--
 **Anetryst/Anetryst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
